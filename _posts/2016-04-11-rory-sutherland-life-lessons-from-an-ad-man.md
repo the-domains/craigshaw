@@ -85,8 +85,8 @@ app_links:
     name: TED
 isBasedOnUrl: 'https://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man?language=en'
 title: 'Rory Sutherland: Life lessons from an ad man'
-datePublished: '2016-04-11T12:07:39.264Z'
-dateModified: '2016-03-31T13:29:12.947Z'
+datePublished: '2016-04-11T12:07:39.313Z'
+dateModified: '2016-03-31T13:28:07.337Z'
 sourcePath: _posts/2016-04-11-rory-sutherland-life-lessons-from-an-ad-man.md
 published: true
 inFeed: true
