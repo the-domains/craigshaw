@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[craigshaw]]></title>
         <description><![CDATA[craigshaw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/craigshaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 13:26:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 12:07:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/craigshaw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rory Sutherland: Life lessons from an ad man]]></title>
+            <description><![CDATA[<article><h1>Rory Sutherland: Life lessons from an ad man</h1><p>Advertising adds value to a product by changing our perception, rather than the product itself. Rory Sutherland makes the daring assertion that a change in perceived value can be just as satisfying as what we consider "real" value -- and his conclusion has interesting consequences for how we look at life.</p></article>]]></description>
+            <link>https://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man?language=en</link>
+            <guid isPermaLink="false">7001bd71-0246-43da-b063-354c233e3d6f</guid>
+            <pubDate>Mon, 11 Apr 2016 12:07:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rory Sutherland: Perspective is everything]]></title>
             <description><![CDATA[<article><h1>Rory Sutherland: Perspective is everything</h1><p>The circumstances of our lives may matter less than how we see them, says Rory Sutherland. At TEDxAthens, he makes a compelling case for how reframing is the key to happiness.</p></article>]]></description>
